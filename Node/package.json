@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "lodash": "^4.17.21",
-    "moment": "^2.27.0"
+    "moment": "^2.29.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
